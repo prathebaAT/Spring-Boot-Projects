@@ -18,5 +18,5 @@ public class HelloWorldApplication {
 	{
 		return String.format("Hello %s!",name);
 	}
-
+ 
 }
